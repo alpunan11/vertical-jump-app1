@@ -1,0 +1,1 @@
+// App.tsx - Kod dosyası buraya eklenecek
